@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Aditya Nanaware  
 ### Computer Engineering Student | Flutter & Java Developer | Full-Stack Problem Solver
 
-I build scalable, real-time applications with strong backend foundations and clean UI/UX.  
-From Flutter apps with live tracking & Firebase integration to JavaFX desktop systems, I focus on reliability, performance, and solving real problems.
+I develop practical, reliable applications with a focus on clean UI/UX and solid backend integration.
+Most of my work is in Flutter, where I’ve built real-time and data-driven apps using REST APIs and Firebase.
+I also have experience with JavaFX for desktop development, including a complete end-to-end system.
+I enjoy building solutions that are structured, maintainable, and actually useful in real scenarios.
 
 ## 🚀 Skills & Technologies
 
